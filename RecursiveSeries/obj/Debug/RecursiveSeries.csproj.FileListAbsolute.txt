@@ -1,0 +1,7 @@
+C:\Users\aisha_ppxjc2l\source\repos\RecursiveSeries\bin\Debug\RecursiveSeries.exe.config
+C:\Users\aisha_ppxjc2l\source\repos\RecursiveSeries\bin\Debug\RecursiveSeries.exe
+C:\Users\aisha_ppxjc2l\source\repos\RecursiveSeries\bin\Debug\RecursiveSeries.pdb
+C:\Users\aisha_ppxjc2l\source\repos\RecursiveSeries\obj\Debug\RecursiveSeries.csproj.AssemblyReference.cache
+C:\Users\aisha_ppxjc2l\source\repos\RecursiveSeries\obj\Debug\RecursiveSeries.csproj.CoreCompileInputs.cache
+C:\Users\aisha_ppxjc2l\source\repos\RecursiveSeries\obj\Debug\RecursiveSeries.exe
+C:\Users\aisha_ppxjc2l\source\repos\RecursiveSeries\obj\Debug\RecursiveSeries.pdb
